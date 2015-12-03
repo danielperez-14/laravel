@@ -9,7 +9,7 @@
         "laravel/framework": "5.1.*",
         "illuminate/html": "^5.0",
         "laracasts/flash": "dev-master",
-        "laravelcollective/html": "5.1.*@dev",
+        "laravelcollective/html": "5.1.*",
         "bosnadev/repositories": "dev-master",
         "mitulgolakiya/laravel-api-generator": "dev-master",
         "doctrine/dbal": "^2.5"
